@@ -1,4 +1,4 @@
-# pointsOfInterest
+# Points Of Interest 
 Buttons on an image that reveal additional information when clicked.
 
 
